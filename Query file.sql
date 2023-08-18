@@ -1,0 +1,1 @@
+copy public.employee (emp_no, emp_title_id, birth_date, first_name, last_name, sex, hire_date) FROM 'C:/Users/lenovo/OneDrive/Desktop/MODULE~1/STARTE~1/data/EMPLOY~1.CSV' DELIMITER ',' CSV ENCODING 'UTF8' QUOTE '\"' ESCAPE '''';""
